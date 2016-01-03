@@ -1,0 +1,28 @@
+name: Desert Wanderings
+favicon: null
+layout_spectrum: 0.9216520213522017
+typography_spectrum: 0.4023816080298275
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8419749059248716
+  lightness: 0.333552009658888
+  saturation: 0.045356170972809196
+  rhythmicContrast: 0.7575046468991786
+purpose: []
